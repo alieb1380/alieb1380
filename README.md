@@ -23,5 +23,3 @@ I'm working on Python I want to work on Data Analysis.
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![](https://visitcount.itsvg.in/api?id=alieb1380&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)

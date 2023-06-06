@@ -1,5 +1,4 @@
 # 💫 About Me:
-I'm working on Python I want to work on Data Analysis.
 
 
 ## 🌐 Socials:
